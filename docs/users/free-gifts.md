@@ -3,7 +3,7 @@
 * */api/v3/users/`userID`/free-gifts* = Some thing about free gifts and tokens
   * Response Example:
   
-    ```json
+    ```js
     {
         "free_gift_list": [{
             "name": "5 Tickets",

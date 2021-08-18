@@ -3,7 +3,7 @@
 * */api/v3/users/`userID`/bug-report-claims* = Some report shit
   * Response Example:
 
-    ```json
+    ```js
     { // I don't know nothing about this
     "claim": false,
     "claim_id": 0,

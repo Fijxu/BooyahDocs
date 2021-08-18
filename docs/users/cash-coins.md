@@ -3,7 +3,7 @@
 * */api/v3/users/`userID`/cash-coins* = Some thing about cashout and money in the account
   * Response Example:
   
-    ```json
+    ```js
     {
         "cash_coin": "0.00",
         "currency": "USD",

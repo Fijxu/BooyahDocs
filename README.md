@@ -17,3 +17,7 @@ Any useful contribution to the documentation is appreciated :)
 ### This api is used for get users information
 
 [Users API Docs](./docs/users.md)
+
+### Used for gather some channel information
+
+[Channels API Docs](./docs/channels.md)

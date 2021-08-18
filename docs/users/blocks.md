@@ -3,7 +3,7 @@
 * */api/v3/users/`userID`/blocks* = Get accounts accounts you have blocked
   * Response Example:
 
-    ```json
+    ```js
     {
         "block_list": [{
             "blocked_uid": "12345678", //userID of the blocked user

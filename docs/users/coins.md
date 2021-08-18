@@ -3,7 +3,7 @@
 * */api/v3/users/`userID`/coins* = Get info about your account coins and tickets count
   * Response Example:
 
-    ```json
+    ```js
     {
         "coin": 0, // Your coins
         "ticket_info": {

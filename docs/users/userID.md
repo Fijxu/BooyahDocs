@@ -3,7 +3,7 @@
 * */api/v3/users/`userID`* = Get info about the userID account
   * Response Example:
 
-    ```json
+    ```js
     {
         "user": {
             "uid": 12345678, // userID
