@@ -1,6 +1,8 @@
 # Daily Logins
 
-* */api/v3/users/`userID`/followers/daily-logins* = Some info about the daily login of YOUR user, you can't view other users daily-login info and streaks
+Request Method: GET
+
+* */users/`userID`/followers/daily-logins* = Some info about the daily login of YOUR user, you can't view other users daily-login info and streaks
   * Response Example:
 
      ```js

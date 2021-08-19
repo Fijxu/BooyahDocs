@@ -1,6 +1,8 @@
 # Cash Coins
 
-* */api/v3/users/`userID`/cash-coins* = Some thing about cashout and money in the account
+Request Method: GET
+
+* */api/v3/users/`userID`/cash-coins* = Something about cashout and money in the account
   * Response Example:
   
     ```js

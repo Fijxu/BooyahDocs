@@ -1,0 +1,204 @@
+{
+    "reward_list": [{
+        "item_uniq": "10_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "10 Diamond"
+    }, {
+        "item_uniq": "100_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "100 Diamond"
+    }, {
+        "item_uniq": "1000_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "1000 Diamond"
+    }, {
+        "item_uniq": "1200_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "1200 diamond"
+    }, {
+        "item_uniq": "1500_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "1500 diamond"
+    }, {
+        "item_uniq": "2000_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "2000 diamond"
+    }, {
+        "item_uniq": "300_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "300 diamond"
+    }, {
+        "item_uniq": "3000_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "3000 diamond"
+    }, {
+        "item_uniq": "4000_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "4000 diamond"
+    }, {
+        "item_uniq": "4th_amplified_bassrock_bundle",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_amplified_bassrock_bundle.png",
+        "name": "Amplified Bassrock Bundle"
+    }, {
+        "item_uniq": "4th_anniversary_dynamic_token",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_anniverary_dynamic_token.png",
+        "name": "Anniversary Dynamic Token"
+    }, {
+        "item_uniq": "4th_character_thiva",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_character_thiva.png",
+        "name": "Thiva"
+    }, {
+        "item_uniq": "4th_crazy_guitar_emote",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_crazy_guitar_emote.png",
+        "name": "Crazy Guitar"
+    }, {
+        "item_uniq": "4th_grenade_skin",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_grenade_skin.png",
+        "name": "Grenade- Thrash Goth"
+    }, {
+        "item_uniq": "4th_monster_truck",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_monster_truck.png",
+        "name": "Monster Truck- Thrash Metallic"
+    }, {
+        "item_uniq": "4th_parachute",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_parachute.png",
+        "name": "Crimson Neon"
+    }, {
+        "item_uniq": "4th_pet_party_panda",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_pet_party_panda.png",
+        "name": "Pet Skin: Party Panda"
+    }, {
+        "item_uniq": "4th_surfboard",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/4th_surfboard.png",
+        "name": "Disc Hover"
+    }, {
+        "item_uniq": "5_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "5 Diamond"
+    }, {
+        "item_uniq": "50_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "50 Diamond"
+    }, {
+        "item_uniq": "500_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "500 Diamond"
+    }, {
+        "item_uniq": "5000_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "5000 Diamond"
+    }, {
+        "item_uniq": "800_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "800 diamond"
+    }, {
+        "item_uniq": "8000_diamond",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/diamond_box.png",
+        "name": "8000 diamond"
+    }, {
+        "item_uniq": "a124_artificial_intelligence_bundle",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/710000385.png",
+        "name": "A124's artificial intellifence bundle"
+    }, {
+        "item_uniq": "an94_booyah_permanent",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/907001620.png",
+        "name": "AN94- BOOYAH"
+    }, {
+        "item_uniq": "annihilator_top",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/annihilator_top.png",
+        "name": "annihilator_top"
+    }, {
+        "item_uniq": "antonio_character",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/102000010.png",
+        "name": "Antonio"
+    }, {
+        "item_uniq": "applause_emote",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/909000004.png",
+        "name": "Applause"
+    }, {
+        "item_uniq": "arm_wave_emote",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/arm_wave_emote.png",
+        "name": "arm_wave_emote"
+    }, {
+        "item_uniq": "astronaut_pack",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/astronaut_pack.png",
+        "name": "Astronaut Pack"
+    }, {
+        "item_uniq": "auto_rickshaw_vehicle",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/auto_rickshaw_vehicle.png",
+        "name": "auto_rickshaw_vehicle"
+    }, {
+        "item_uniq": "baby_shark_emote",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/909000009.png",
+        "name": "Baby Shark"
+    }, {
+        "item_uniq": "backpack _dancing_panda",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/904000010.png",
+        "name": "Dancing panda"
+    }, {
+        "item_uniq": "baseballer_head",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/baseballer_head.png",
+        "name": "baseballer_head"
+    }, {
+        "item_uniq": "battlefield_bundle_F",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/battlefield_bundle_F.png",
+        "name": "battlefield_bundle_F"
+    }, {
+        "item_uniq": "battlefield_bundle_M",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/battlefield_bundle_M.png",
+        "name": "battlefield_bundle_M"
+    }, {
+        "item_uniq": "beachwear_loot_crate",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/beachwear_loot_crate_v2.png",
+        "name": "beachwear_loot_crate"
+    }, {
+        "item_uniq": "bhangra_emote",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/bhangra_emote2.png",
+        "name": "Bhangra"
+    }, {
+        "item_uniq": "bikini_top",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/bikini_top.png",
+        "name": "Bikini Top"
+    }, {
+        "item_uniq": "black_rose_rocker_mask",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/black_rose_rocker_mask.png",
+        "name": "black_rose_rocker_mask"
+    }, {
+        "item_uniq": "black_rose_rocker_top",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/black_rose_rocker_top.png",
+        "name": "black_rose_rocker_top"
+    }, {
+        "item_uniq": "blackbelt_shoes",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/blackbelt_shoes.png",
+        "name": "blackbelt_shoes"
+    }, {
+        "item_uniq": "bloody_heart_grenade",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/bloody_heart_grenade.png",
+        "name": "bloody_heart_grenade"
+    }, {
+        "item_uniq": "blue_angel_bottom",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/blue_angel_bottom.png",
+        "name": "blue_angel_bottom"
+    }, {
+        "item_uniq": "blue_angel_head",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/blue_angel_head.png",
+        "name": "blue_angel_head"
+    }, {
+        "item_uniq": "blue_angel_shoes",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/blue_angel_shoes.png",
+        "name": "blue_angel_shoes"
+    }, {
+        "item_uniq": "blue_angel_top",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/blue_angel_top.png",
+        "name": "blue_angel_top"
+    }, {
+        "item_uniq": "blue_specimen",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/blue_specimen.png",
+        "name": "Blue Specimen"
+    }, {
+        "item_uniq": "booyah_box",
+        "icon_url": "https://cdnmambet-a.akamaihd.net/booyah/ops_resource/loot_item_pic/booyah_box.png",
+        "name": "BOOYAH Box"
+    }],
+    "cursor": 50
+}

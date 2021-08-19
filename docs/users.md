@@ -17,24 +17,24 @@ users
 └── userID.md
 ```
 
-### For all users
+### Public Access
 
-[Info about some account](./users/userID.md)
+[Info about some account (/userID)](./users/userID.md)
 
-[Info about the follower count of some user](./users/followers.md)
+[Info about the follower count of some user (/followers)](./users/followers.md)
 
-### Only for your account
+### Private Access
 
-[Get a list of users blocked](./users/blocks.md)
+[Get a list of users blocked (/blocks)](./users/blocks.md)
 
-[Info about daily login](./users/daily-logins.md)
+[Info about daily login (/daily-logins)](./users/daily-logins.md)
 
-[Info about coins](./users/coins.md)
+[Info about coins (/coins)](./users/coins.md)
 
-[Info about real money in your account](./users/cash-coins.md)
+[Info about real money in your account (/cash-coins)](./users/cash-coins.md)
 
-[Info about your account notifications/alerts](./users/push-message-sessions.md)
+[Info about your account notifications/alerts (/push-message-sessions)](./users/push-message-sessions.md)
 
-[Info about some Free gifts/tickets](./users/free-gifts.md)
+[Info about some Free gifts/tickets (/free-gifts)](./users/free-gifts.md)
 
-[Info about some bug report or something else](./users/bug-report-claims.md)
+[Info about some bug report or something else (/bug-report-claims)](./users/bug-report-claims.md)

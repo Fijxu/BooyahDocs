@@ -1,6 +1,8 @@
 # Blocks
 
-* */api/v3/users/`userID`/blocks* = Get accounts accounts you have blocked
+Request Method: GET
+
+* */users/`userID`/blocks* = Get accounts accounts you have blocked
   * Response Example:
 
     ```js

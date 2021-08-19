@@ -1,6 +1,8 @@
 # Free Gifts
 
-* */api/v3/users/`userID`/free-gifts* = Some thing about free gifts and tokens
+Request Method: GET
+
+* */users/`userID`/free-gifts* = Something about free gifts and tokens
   * Response Example:
   
     ```js

@@ -4,9 +4,9 @@
 
 Unofficial usermade documentation of the v3 API of the streaming platform called booyah
 
-Since booyah does not provide documentation to its API, I am doing the documentation to make the development of bots (or something else) easier for everyone.
+Since booyah does not provide documentation to its API, I writing this documentation to make the development of bots (or something else) easier for everyone.
 
-I am not a booyah employee and I am not affiliated with them either (in fact, I hate booyah). I am just a normal user
+I am not a booyah employee and I am not affiliated with them either. I am just a normal user
 
 This work is in progress, I will update it when I have time available. The booyah api is too extensive to finish it in a few days.
 

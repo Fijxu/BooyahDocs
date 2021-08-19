@@ -1,6 +1,8 @@
 # Push Message Sessions
 
-* */api/v3/users/`userID`/push-message-sessions* = Get some things about the notificactions
+Request Method: GET
+
+* */users/`userID`/push-message-sessions* = Get Somethings about the notificactions
   * Response Example:
 
     ```js

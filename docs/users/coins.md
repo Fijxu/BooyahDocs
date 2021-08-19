@@ -1,6 +1,8 @@
 # Coins
 
-* */api/v3/users/`userID`/coins* = Get info about your account coins and tickets count
+Request Method: GET
+
+* */users/`userID`/coins* = Get info about your account coins and tickets count
   * Response Example:
 
     ```js

@@ -1,6 +1,8 @@
 # userID
 
-* */api/v3/users/`userID`* = Get info about the userID account
+Request Method: GET
+
+* */users/`userID`* = Get info about the userID account
   * Response Example:
 
     ```js
@@ -37,7 +39,7 @@
             "name": "ffmpeg and shit!", // Title of the stream
             "streaming_lang": "en", // Language of this user
             "description": "", // Description of this channel
-            "flag": 16, // wtf is this????????? 
+            "flag": 16, // Flag
             // From internal files: enableUploadVod = !!(flag & 512); enableHosting = !!(flag & 1024);
             // I think it means that if the user has the flag 512, he is allowed to upload vods, if he has the flag 1024, he can host other streamers.
             // There is also a hidden flag in some streamers which is 5813, 5300, 1716, and other mores, i think a higher flag means higher priority or higher permissions.
@@ -47,15 +49,13 @@
             // This can be converted to human time with the same Unix command mentioned before
             "share_url": "https://booyah.live/channels/12345678", // The share url when a user press the share button 
             "alias": "SomeAlias", // Alias of the user
-            // Obvious strings
             "is_streaming": false, 
             "is_verified_streamer": false,
             "is_content_creator": false,
             "is_enable_vod": false,
             "is_enable_download_vod": false,
             "is_enable_long_clip": false,
-            // Obvious strings
-            "is_enable_lucky_draw": false, // wtf is lucky draw
+            "is_enable_lucky_draw": false, // Lucky draw is a Free Fire event
             "social_links": [] // Social links that the user has posted on his channel
         }
     }
