@@ -55,7 +55,7 @@
             "is_enable_download_vod": false,
             "is_enable_long_clip": false,
             // Obvious strings
-            "is_enable_lucky_draw": false, // wtf is lucky draw
+            "is_enable_lucky_draw": false, // free fire's lucky draw i guess
             "social_links": [] // Social links that the user has posted on his channel
         }
     }
