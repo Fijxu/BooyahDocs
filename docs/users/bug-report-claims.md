@@ -1,13 +1,13 @@
 # Bug Report Claims
 
-* */api/v3/users/`userID`/bug-report-claims* = Some report shit
+* */api/v3/users/`userID`/bug-report-claims* = Bug report claims by user
   * Response Example:
 
     ```js
-    { // I don't know nothing about this
-    "claim": false,
-    "claim_id": 0,
-    "start_time": 0,
-    "end_time": 0
+    { 
+     "claim": false, 
+     "claim_id": 0,
+     "start_time": 0,
+     "end_time": 0
     }
     ```
