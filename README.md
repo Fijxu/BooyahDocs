@@ -2,9 +2,9 @@
 
 # Booyah.live Docs
 
-Unofficial usermade documentation of the v3 API of the streaming platform called booyah
+Unofficial usermade-documentation of the v3 API of the streaming platform called booyah
 
-Since booyah does not provide documentation to its API, I am doing the documentation to make the development of bots (or something else) easier for everyone.
+Since booyah does not provide documentation to its API, I am writing this documentation to make the development of bots (or something else) easier for everyone.
 
 I am not a booyah employee and I am not affiliated with them either (in fact, I hate booyah). I am just a normal user
 
