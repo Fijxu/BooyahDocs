@@ -14,10 +14,10 @@ Any useful contribution to the documentation is appreciated :)
 
 ## ↓ Docs ↓
 
-### This api is used for get users information
+### Used for get users information
 
 [Users API Docs](./docs/users.md)
 
-### Used for gather some channel information
+### Used for get channels information
 
 [Channels API Docs](./docs/channels.md)
