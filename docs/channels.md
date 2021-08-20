@@ -6,7 +6,12 @@ Work in progress...
 
 ```less
 channels
+├── alert-configs.md
+├── stats.md
+├── stream-keys.md
+├── stream-settings.md
 ├── streams.md
+└── videos.md
 ```
 
 ### Public access

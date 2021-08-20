@@ -14,10 +14,18 @@ Any useful contribution to the documentation is appreciated :)
 
 ## ↓ Docs ↓
 
-### Used for get users information
+### Get users information
 
-[Users API Docs](./docs/users.md)
+[Users API](./docs/users.md) (Incomplete)
 
-### Used for get channels information
+### Get channels information
 
-[Channels API Docs](./docs/channels.md)
+[Channels API](./docs/channels.md) (Incomplete)
+
+### Get chatrooms information
+
+[Chatrooms API](./docs/chatrooms.md) (Incomplete)
+
+### Get games information
+
+[Chatrooms API](./docs/games.md) (Incomplete)
