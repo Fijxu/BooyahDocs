@@ -5,7 +5,7 @@ Work in progress...
 ## Tree 🌲
 
 ```less
-channels
+.channels
 ├── alert-configs.md
 ├── stats.md
 ├── stream-keys.md

@@ -1,4 +1,4 @@
-# Coins
+# Coins - Private
 
 Request Method: GET
 

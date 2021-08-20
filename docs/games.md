@@ -5,7 +5,7 @@ Work in progress...
 ## Tree 🌲
 
 ```less
-games
+.games
 ├── games-1-rewards.json
 ├── games-1-rewards.md
 └── games.md

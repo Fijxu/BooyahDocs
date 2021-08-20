@@ -1,4 +1,4 @@
-# Blocks
+# Blocks - Private
 
 Request Method: GET
 

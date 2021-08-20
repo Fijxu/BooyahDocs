@@ -5,7 +5,7 @@ Work in progress...
 ## Tree 🌲
 
 ```less
-chatrooms
+.chatrooms
 ├── audiences-count.md
 └── chatrooms.md
 ```

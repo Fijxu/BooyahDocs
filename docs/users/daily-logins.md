@@ -1,4 +1,4 @@
-# Daily Logins
+# Daily Logins - Private
 
 Request Method: GET
 

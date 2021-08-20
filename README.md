@@ -12,11 +12,15 @@ This work is in progress, I will update it when I have time available. The booya
 
 Any useful contribution to the documentation is appreciated :)
 
+>What does it mean when an entry says Private and Public in the docs?
+
+Means whether an API is accessible to everyone (Public) or only to your own user (Private).
+
 ## ↓ Docs ↓
 
 ### Get users information
 
-[Users API](./docs/users.md) (Incomplete)
+[Users API](./docs/users.md) (File listing and URLs complete, Docs incomplete)
 
 ### Get channels information
 

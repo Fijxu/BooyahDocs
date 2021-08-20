@@ -1,4 +1,4 @@
-# Bug Report Claims
+# Bug Report Claims - Private
 
 * */api/v3/users/`userID`/bug-report-claims* = Bug report claims by user
   * Response Example:
