@@ -28,4 +28,4 @@ Any useful contribution to the documentation is appreciated :)
 
 ### Get games information
 
-[Chatrooms API](./docs/games.md) (Incomplete)
+[Games API](./docs/games.md) (Incomplete)
