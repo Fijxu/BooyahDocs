@@ -2,7 +2,7 @@
 
 Request Method: GET
 
-* */users/`userID`/stream-settings* = Get info about the stream setting
+* */users/`userID`/stream-settings* = Get info about the stream settings
   * Response Example:
 
     ```json
