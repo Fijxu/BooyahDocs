@@ -1,12 +1,8 @@
 ![apiv3](https://user-images.githubusercontent.com/61166695/129963654-8abb0486-2a0d-42a3-828b-8d604e6ace3b.png)
 
-# Important announcement 09-14-21
-
-Booyah has changed the way the page loads, so as of today, I will not be able to discover new endpoints that will be added to the platform. I will continue to add documentation with the previous versions that I had previously downloaded.
-
 # Booyah.live Docs
 
-Unofficial usermade documentation of the v3 API of the streaming platform called Booyah!
+Unofficial usermade documentation of the v3 API of the streaming platform called booyah
 
 Since booyah does not provide documentation to its API, I writing this documentation to make the development of bots (or something else) easier for everyone.
 
