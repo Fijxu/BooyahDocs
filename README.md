@@ -10,7 +10,7 @@ What I mean by this is that now all the files and the way the page loads is tota
 
 If you want to see the archives of the site before this change, here is the folder where I have some archived versions of the different Booyah domains.
 
-https://zzls.xyz/files/booyah-files/
+https://zzls.xyz/files/booyah-files/ (The password of some files is `1337`)
 
 # Booyah.live Docs
 
