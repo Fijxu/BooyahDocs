@@ -1,3 +1,7 @@
+# MORE IMPORTANT NOTE
+
+I am no longer interested in the booyah platform so I will not do anything with this repo lol
+
 ![apiv3](https://user-images.githubusercontent.com/61166695/129963654-8abb0486-2a0d-42a3-828b-8d604e6ace3b.png)
 
 # Important Note
